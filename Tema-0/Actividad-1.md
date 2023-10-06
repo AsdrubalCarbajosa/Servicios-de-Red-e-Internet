@@ -101,4 +101,3 @@ Existe un amplio número de media types que se pueden utilizar al configurar un 
 -text/xml
 
 -video/mp4
-
