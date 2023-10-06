@@ -5,6 +5,7 @@ Tim-Berners-Lee creó el primer servidor web en Ginebra, Suiza en el año 1990.
 Es una colección de protocolos para redes de Computadores que son utilizados para definir, 
 localizar, implementar y hacer que un Servicio Web interactúe con otro.
 ## ¿Componentes de una URL?
+
 -Protocolo de red: Http, Https, mailto y ftp son los principales protocolos web que encabezan una URL, indicando a la máquina qué tipo de conexión debe realizar y cuál es el lenguaje específico que se hablará con la computadora o la red de computadoras que brindarán la información al usuario.
 
 -Servicio: Www, www2, etc., se trata de los posibles servicios de soporte de información on-line, de los cuales la World Wide Web es la más popular.
