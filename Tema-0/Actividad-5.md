@@ -19,3 +19,13 @@ Y nos aparecerá lo siguiente:
 ![Cuarto paso Python](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/0/p/4.PNG)
 
 En este caso nos salen unos archivos distintos debido a que nos encontramos en un directorio diferente al del ejemplo anterior.
+
+## Dummy Web Server
+Nos descargamos este archivo como zip: [Enlace servidor web](https://gist.github.com/kabinpokhrel/6fd1275603e9d5f1e284be717cbd1bff)
+Cuando esté descargado, lo descomprimimos y volvemos a usar el comando "cd" para ir hasta la carpeta en la que descargamos el archivo. Cuando lo hayamos hecho, ejecutamos este comando:
+
+![Quinto paso Python](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/0/p/5.PNG)
+
+Y nos aparecerá de nuevo:
+
+![Sexto paso Python](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/0/p/6.PNG)
