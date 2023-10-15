@@ -3,4 +3,4 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Servicios de 
 
 ## Tema 0 - Introducción
 
-|Ejercicio 1|[Ejercicio 1](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/Tema-0/Actividad-1.md)|
+| Ejercicio 1 | [Ejercicio 1](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/Tema-0/Actividad-1.md) |
