@@ -14,3 +14,4 @@ Una vez instalado, ejecutamos este comando:
 
 Ahora que el servidor local está abierto, podremos hacer una conexión mediante Telnet:
 ![Cuarto paso de Telnet](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/0/t4.PNG)
+![QUinto paso de Telnet](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/0/t5.PNG)
