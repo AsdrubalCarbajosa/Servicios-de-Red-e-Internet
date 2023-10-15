@@ -13,6 +13,7 @@ Una vez hecho esto, ponemos este comando:
 ![Tercer paso Python](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/0/p/3.PNG)
 
 Y nos aparecerá lo siguiente:
+
 ![Cuarto paso Python](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/0/p/4.PNG)
 
 En este caso nos salen unos archivos distintos debido a que nos encontramos en un directorio diferente al del ejemplo anterior.
