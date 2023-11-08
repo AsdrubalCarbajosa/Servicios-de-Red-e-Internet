@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "Titulo de la página web"
+read t
+echo "Cabecera de la página web"
+read c
+echo "Mensaje de la página web"
+read m
+
+mkdir /var/www/html/$t
+
+echo "<h1>$t</h1>" >> /var/www/html/$t/index.html
+echo "<h3>$c</h3>" >> /var/www/html/$t/index.html
+echo "<p>$m</p>" >> /var/www/html/$t/index.html
