@@ -81,3 +81,6 @@ Aquí ponemos el nombre de nuestra base de datos, nuestro usuario y nuestra cont
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/5eae21a9-df99-428d-a3c7-316e6daed75d)
 
+Una vez hecho esto ponemos en nuestro navegado "localhost/nombredenuestracarpetadewordpress".
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f3d122ae-8878-4572-8df7-c4ed29027ad3)
