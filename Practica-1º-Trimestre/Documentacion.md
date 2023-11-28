@@ -71,5 +71,13 @@ Ahora le otorgamos permisos de escritura a la carpeta de contenidos de Wordpress
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/e53dea8b-ecb3-4fd6-9fea-fcedb87c9546)
 
+A continuación vamos a configurar Wordpress para que use la base de datos que hemos creado. Nos vamos al directorio de Wordpress, copiamos el archivo de ejemplo de configuración de Wordpress como un archivo de configuración normal y lo editamos:
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2ca5c920-5eff-4291-898c-0de87ea72ed6)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/cc2e9d6f-4430-4633-bdf9-12d280cb5aff)
+
+Aquí ponemos el nombre de nuestra base de datos, nuestro usuario y nuestra contraseña.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/5eae21a9-df99-428d-a3c7-316e6daed75d)
 
