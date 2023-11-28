@@ -51,7 +51,21 @@ Tras habernos salido, volvemos a acceder a MySQL con el comando de antes y la nu
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/9f769698-a014-4216-babb-018257e212df)
 
 ## Instala y configura wordpress ##
+Lo primero será descargar Wordpress desde su página oficial, lo cual podemos hacer directamente desde el siguiente comando:
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ccffa949-6451-4bb4-810a-f4215579df7c)
+
+Antes de seguir, vamos a crear la base de datos que usaremos para Wordpress. Lo primero será meternos en MySQL. Acto seguido, creamos la base de datos, un nuevo usuario y le damos permisos al nuevo usuario sobre la base de datos que acabamos de crear, como se refleja en esta imagen:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/1c914a36-73f4-4398-a42d-d1b5b74c8fd9)
+
+Ahora descomprimimos el paquete de Wordpress que descargamos anteriormente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4872ac75-fdae-48b0-966c-4e1b838945c3)
+
+Y acto seguido lo movemos a la carpeta donde se alojan las páginas web en apache:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ba53a65f-95d0-4fbd-a288-be0bb6d03b19)
 
 
 
