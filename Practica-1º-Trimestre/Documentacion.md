@@ -67,6 +67,9 @@ Y acto seguido lo movemos a la carpeta donde se alojan las páginas web en apach
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ba53a65f-95d0-4fbd-a288-be0bb6d03b19)
 
+Ahora le otorgamos permisos de escritura a la carpeta de contenidos de Wordpress para evitar errores relacionados con permisos:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/e53dea8b-ecb3-4fd6-9fea-fcedb87c9546)
 
 
 
