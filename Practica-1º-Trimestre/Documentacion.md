@@ -91,13 +91,10 @@ Una vez hecho esto ponemos en nuestro navegador "localhost/nombredenuestracarpet
 
 ## Activar el módulo wsgi para permitir la ejecución de aplicaciones Python
 
-Podemos instalar el módulo wsgi desde los comandos que se muestran a continuación:
+Podemos instalar el módulo wsgi desde el comando que se muestra a continuación:
 
-![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/27725a1c-054a-487c-9dd7-ba7a0d63875e)
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/da62e849-ca01-4f50-b43e-53cc92940742)
 
-![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/d28bede4-f570-462f-a571-4a9778a34c83)
-
-![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7617adc2-5b01-4de0-b148-089d832333e5)
 
 Tras estos comandos ya tendremos instalado wsgi.
 
