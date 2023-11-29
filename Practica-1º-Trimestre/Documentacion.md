@@ -81,6 +81,33 @@ Aquí ponemos el nombre de nuestra base de datos, nuestro usuario y nuestra cont
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/5eae21a9-df99-428d-a3c7-316e6daed75d)
 
-Una vez hecho esto ponemos en nuestro navegado "localhost/nombredenuestracarpetadewordpress".
+Una vez hecho esto ponemos en nuestro navegador "localhost/nombredenuestracarpetadewordpress". Podemos empezar con la configuración de Wordpress.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f3d122ae-8878-4572-8df7-c4ed29027ad3)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/e6864310-8098-436c-b45c-abee58d514b8)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4e22c1c6-3dff-456a-aba8-c9a510571e02)
+
+## Activar el módulo wsgi para permitir la ejecución de aplicaciones Python
+
+Podemos instalar el módulo wsgi desde los comandos que se muestran a continuación:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/27725a1c-054a-487c-9dd7-ba7a0d63875e)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/d28bede4-f570-462f-a571-4a9778a34c83)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7617adc2-5b01-4de0-b148-089d832333e5)
+
+Tras estos comandos ya tendremos instalado wsgi.
+
+## Crea y despliega una pequeña aplicación python para comprobar que funciona correctamente
+
+Lo primero es crear el directorio para alojar nuestra aplicación python, ademas de otro directorio para los archivos python y otro más para aplicaciones estáticas.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a773d781-c6e7-423a-a732-8f53249ccdfa)
+
+
+
+
+
