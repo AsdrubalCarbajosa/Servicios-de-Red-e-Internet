@@ -107,7 +107,19 @@ Lo primero es crear el directorio para alojar nuestra aplicación python, ademas
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a773d781-c6e7-423a-a732-8f53249ccdfa)
 
+Ahora creamos el archivo python en la carpeta de los archivos Python.
+NOTA: Es posible que tengas que cambiar los paermisos de la carpeta. Puedes usar el comando de arriba de la siguiente imagen:
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/72394f7e-64d4-433f-989c-585e9bc41344)
 
+Ahora editamos el archivo que acabamos de crear y añadimos lo siguiente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/1b5dbfc8-171d-4774-8653-4bc285de077e)
+
+Acto seguido creamos un nuevo virtualhost y ponemos la información necesaria.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/e089a0d7-2c50-485b-9e63-6c531b408cf9)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f10e0787-a4bf-46ed-ad13-b240e539425a)
 
 
