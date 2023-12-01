@@ -111,7 +111,7 @@ NOTA: Es posible que tengas que cambiar los paermisos de la carpeta. Puedes usar
 
 Ahora editamos el archivo que acabamos de crear y añadimos lo siguiente:
 
-![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/1b5dbfc8-171d-4774-8653-4bc285de077e)
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8059e040-188e-4df1-970e-f36f0d4cbd57)
 
 Acto seguido creamos un nuevo virtualhost y ponemos la información necesaria.
 
