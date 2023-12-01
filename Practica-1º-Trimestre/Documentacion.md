@@ -119,4 +119,9 @@ Acto seguido creamos un nuevo virtualhost y ponemos la información necesaria.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f10e0787-a4bf-46ed-ad13-b240e539425a)
 
+Si intentamos acceder ahora a la página que acabamos de crear nos debería de aparecer el mensaje que escribimos anteriormente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/09652ad7-1905-4b06-813a-c3fa58be54e6)
+
+
 
