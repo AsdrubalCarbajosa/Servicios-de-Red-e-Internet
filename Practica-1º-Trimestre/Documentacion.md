@@ -198,3 +198,23 @@ Una vez generado el archivo nos vamos al navegador y ponemos la dirección http:
 
 ## Instala un segundo servidor de tu elección (nginx, lightpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
 
+Como siempre, lo primero es instalar el programa en cuestión, en este caso nginx.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4d86fce3-e195-4c5b-8719-ca1922fc8b3c)
+
+Ahora creamos una carpeta para almacenar los archivos del nuevo dominio.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a683a577-14de-44c1-b6bb-67d8d90757e0)
+
+Ahora vamos a crear un archivo html simple para poder visualizar en la página web.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2466bc4c-ee89-4691-b96d-9520aea9a6a3)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/61cfd42d-df5c-4584-b01f-a212bc579f90)
+
+Acto seguido nos vamos al directorio en el que se alojan los sitios web de nginx y creamos uno nuevo con lo siguiente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/b50e1b2c-197f-4850-ba79-be1c07b83c46)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/404a4449-fe58-4a5d-b9f6-f4dee171d445)
+
