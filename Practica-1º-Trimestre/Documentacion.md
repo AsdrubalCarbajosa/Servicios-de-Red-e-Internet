@@ -195,3 +195,6 @@ Ahora generamos el archivo con las estadísticas del dominio.
 Una vez generado el archivo nos vamos al navegador y ponemos la dirección http://departamentos.centro.intranet/awstats/awstats.pl?config=departamentos.centro.intranet, cambiando el nombre del dominio por el que corresponda. Aquí podremos ver las estadísticas de nuestro dominio.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4070951d-4924-40f6-a00e-fce2c6b363af)
+
+## Instala un segundo servidor de tu elección (nginx, lightpd) bajo el dominio "servidor2.centro.intranet". Debes configurarlo para que sirva en el puerto 8080 y haz los cambios necesarios para ejecutar php. Instala phpmyadmin.
+
