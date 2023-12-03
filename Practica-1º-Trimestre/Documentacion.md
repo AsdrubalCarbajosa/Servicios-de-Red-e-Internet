@@ -188,4 +188,10 @@ Ahora editamos el archivo cambiando el nombre del archivo de datos y el nombre d
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/883a9652-5d88-41f2-8ef9-297b6254d440)
 
+Ahora generamos el archivo con las estadísticas del dominio.
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/08452165-6f5d-4b92-9504-91711b74bbca)
+
+Una vez generado el archivo nos vamos al navegador y ponemos la dirección http://departamentos.centro.intranet/awstats/awstats.pl?config=departamentos.centro.intranet, cambiando el nombre del dominio por el que corresponda. Aquí podremos ver las estadísticas de nuestro dominio.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4070951d-4924-40f6-a00e-fce2c6b363af)
