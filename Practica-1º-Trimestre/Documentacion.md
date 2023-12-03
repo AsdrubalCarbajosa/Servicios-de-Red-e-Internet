@@ -123,5 +123,21 @@ Si intentamos acceder ahora a la página que acabamos de crear nos debería de a
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/09652ad7-1905-4b06-813a-c3fa58be54e6)
 
+## Adicionalmente protegeremos el acceso a la aplicación python mediante autenticación
 
+Lo primero será crear el fichero donde se almacenarán los usuarios y contraseñas de apache. Ponemos el siguiente comando poniendo al final del mismo el nobre de usuario que queramos. Acto seguido, introducimos una contraseña (en este caso, se usó el nombre de usuario usuario y la contraseña usuario).
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/652236a9-f9e7-463c-9bca-b17a7c34090b)
+
+Si examinamos el archivo podremos ver el nombre del usuario y la contraseña cifrada.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/25823523-9db8-4879-a092-173383def48e)
+
+Ahora nos vamos al directorio en el que se encuentra el archivo de configuración de nuestro servidor y lo abrimos.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/0b13ea70-0387-488e-9972-cdea9dbbcd14)
+
+Una vez dentro, añadimos en la parte inferior la ruta donde se encuentra el contenido de nuestra aplicación python y le ponemos las siguientes directrices para que el acceso a esta requiera un nombre de usuario y contraseña válidos.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ecd5e6ba-0788-4832-8466-e7615bdd4843)
 
