@@ -141,3 +141,26 @@ Una vez dentro, añadimos en la parte inferior la ruta donde se encuentra el con
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ecd5e6ba-0788-4832-8466-e7615bdd4843)
 
+Cuando hayamos terminado, reiniciamos apache.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/0074aff3-a890-491e-b324-cd7059406f80)
+
+Si nos vamos ahora a la dirección web donde se encuentra alojada la aplicación apache podremos ver que se requiere un usuario y una contraseña.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/e0051d88-5cde-48be-b49b-ee638eb4c182)
+
+En caso de introducir las credenciales correctas nos aparecerá el contenido.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4d1cd0b9-1188-4fbc-bd56-34f4524fa70d)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/350ecd64-b1c7-41c2-af9f-fb6ceaa5e585)
+
+Preo en caso de no teclear las credenciales correctas nos saltará un mensaje de error.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2a4c1cc5-0144-451a-a734-7a94512d7fc3)
+
+## Instala y configura awstat
+
+
+
+
