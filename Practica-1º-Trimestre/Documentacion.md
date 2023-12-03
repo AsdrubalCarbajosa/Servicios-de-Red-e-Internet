@@ -155,12 +155,37 @@ En caso de introducir las credenciales correctas nos aparecerá el contenido.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/350ecd64-b1c7-41c2-af9f-fb6ceaa5e585)
 
-Preo en caso de no teclear las credenciales correctas nos saltará un mensaje de error.
+Pero en caso de no teclear las credenciales correctas nos saltará un mensaje de error.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2a4c1cc5-0144-451a-a734-7a94512d7fc3)
 
 ## Instala y configura awstat
 
+Para empezar instalaremos awstat.
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/c763cad7-7401-4dc8-b92b-92b44a9a68f2)
+
+Ahora creamos un archivo de configuración en el directorio de configuraciones de apache.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/21357c35-49f7-4ad5-a293-ad95087222c0)
+
+En el introducimos las directrices necesarias para la configuración de awstat.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f6c9c86b-6b79-46db-8242-463a7f73a8da)
+
+Ahora activamos el módulo CGI, awstat y reiniciamos el servidor.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/57ff5b03-af1b-4e10-b2f5-f3d64e7489a1)
+
+Accedemos al directorio de awstats en /etc/awstats y copiamos el archivo de configuración con el siguiente formato:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/68f7919e-ccf4-483b-8f07-cf9b1441cb94)
+
+Es decir, añadiendo el nombre del dominio del que queremos ver las estadísticas.
+Ahora editamos el archivo cambiando el nombre del archivo de datos y el nombre del dominio:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/e112aedc-c05d-43b8-a44c-ac6653f7d62a)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/883a9652-5d88-41f2-8ef9-297b6254d440)
 
 
