@@ -242,3 +242,15 @@ Para que phpmyadmin funcione con nginx deberemos crear un enlace simbólico en e
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/fe88fbb1-d3a8-4676-8a46-fa24f2ecd0b8)
 
+Antes de seguir vamos a hacer que nginx sea compatible con archivos php. Descargamos e instalamos el paquete de dependencias de php.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/68465b58-de8d-45b7-84fb-5af99928c79a)
+
+Ahora ponemos lo siguiente en el archivo de configuración de nuestro servidor.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8b1b11b9-f50d-4b0b-b034-b26de6c7bbc3)
+
+Si ahora entramos desde el navegador web deberíamos poder ver la página de phpmyadmin sin problemas.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/840cd841-f5e3-4a54-b012-11150516cbdc)
+
