@@ -218,3 +218,27 @@ Acto seguido nos vamos al directorio en el que se alojan los sitios web de nginx
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/404a4449-fe58-4a5d-b9f6-f4dee171d445)
 
+Ahora si lo buscamos en el navegador en el puerto 8080 nos aparecerá el sitio.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/019652be-4819-46bf-b150-8d1a5452c8d6)
+
+Ahora vamos a instalar phpmyadmin en nginx. ponemos el siguiente comando.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ebd11b1b-511b-43f0-8e81-5c3028b1c1b2)
+
+Cuando nos salga esta ventana le damos al tabulador en el teclado para no seleccionar ninguna de las opciones, debido a que no estamos usando ni apache ni lighttpd.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4b3f3e71-a4d4-4c15-8801-5fa12ea5ba97)
+
+Aquí seleccionamos Sí.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/19ade871-472d-4c27-9cf2-f0d06faf3089)
+
+Aquí creamos una contraseña para la base de datos.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/59a167c2-eccc-430e-86f0-92576116ed58)
+
+Para que phpmyadmin funcione con nginx deberemos crear un enlace simbólico en el dominio en el que necesitamos la base de datos, lo cual crearemos con el siguiente comando:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/fe88fbb1-d3a8-4676-8a46-fa24f2ecd0b8)
+
