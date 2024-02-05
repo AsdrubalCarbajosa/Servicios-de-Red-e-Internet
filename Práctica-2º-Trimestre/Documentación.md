@@ -10,5 +10,10 @@ Lo primero es la instalación de apacher, mysql, php y phpmyadmin
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8d66ab97-ba54-41f5-b69a-38b4a7995c83)
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a31fe445-a2c4-438b-a44a-2c737c1f9fd5)
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/e373d815-4c44-454c-bd1a-f75431df7a79)
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/84ec8733-e30f-4133-aebb-9405ea72c28d)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/126c09ff-ce4e-4ff9-91c1-e24e028d0e2a)
