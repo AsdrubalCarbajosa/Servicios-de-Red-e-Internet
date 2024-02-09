@@ -1,7 +1,7 @@
 # Práctica 2º Trimestre #
 ## Instalación de Apache ##
 
-Lo primero es la instalación de apacher, mysql, php y phpmyadmin
+Lo primero es la instalación de apache, mysql, php y phpmyadmin
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/45b94736-4a81-4f21-a1bc-4d901efc05af)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8eed3a03-e0f7-4164-9d23-da197f4c6c1e)
@@ -17,3 +17,4 @@ Lo primero es la instalación de apacher, mysql, php y phpmyadmin
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/84ec8733-e30f-4133-aebb-9405ea72c28d)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/126c09ff-ce4e-4ff9-91c1-e24e028d0e2a)
+
