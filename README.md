@@ -24,3 +24,9 @@ Este repositorio incluye actividades llevadas a cabo en el módulo Servicios de 
 | Práctica | Descripción |
 | ----------- | ----------- |
 | Práctica 1º Trimestre | [Servidores Web](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/Practica-1%C2%BA-Trimestre/Documentacion.md) |
+
+## Práctica 2º Trimestre
+
+| Práctica | Descripción |
+| ----------- | ----------- |
+| Práctica 2º Trimestre | [Servidor de Alojamiento](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/blob/main/Pr%C3%A1ctica-2%C2%BA-Trimestre/Documentaci%C3%B3n.md) |
