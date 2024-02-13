@@ -27,3 +27,21 @@ Ahora reiniciamos el servidor y accedemos a phpmyadmin mediante el navegador web
 Descargamos vftpd
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f9603694-dec7-40ea-9369-d5656f8e604d)
+
+Ahora creamos un usuario como prueba para la conexión
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/1cf27521-afd9-40d1-b09c-5b80c69e887a)
+
+En el siguiente paso, crearemos un directorio donde guardar nuestras configuraciones de ftp y le cambiaremos el propietario a nuestro usuario administrador para asegurarnos de que nadie pueda acceder al mismo.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/78f65c14-ad64-403e-b8f9-917dfa1f6a60)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f718cd66-501b-4dad-afdd-2ccd45b97792)
+
+Ahora accedemos al siguiente archivo de configuración y nos aseguramos de que las siguientes líneas estén sin comentar:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/9a2b15ab-51be-4b62-b738-249118fbbee8)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/aed84c3e-a521-4e6c-a366-2471b7c371cb)
+
+
