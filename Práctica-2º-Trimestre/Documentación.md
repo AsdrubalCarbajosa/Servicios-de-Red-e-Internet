@@ -1,5 +1,5 @@
 # Práctica 2º Trimestre #
-## Instalación de Apache ##
+## Instalación de programas ##
 
 Lo primero es la instalación de apache, mysql, php y phpmyadmin
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/45b94736-4a81-4f21-a1bc-4d901efc05af)
@@ -21,5 +21,9 @@ Ahora reiniciamos el servidor y accedemos a phpmyadmin mediante el navegador web
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/84ec8733-e30f-4133-aebb-9405ea72c28d)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/126c09ff-ce4e-4ff9-91c1-e24e028d0e2a)
+
+## Configuración de FTP ##
+
+Descargamos vftpd
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f9603694-dec7-40ea-9369-d5656f8e604d)
