@@ -47,3 +47,11 @@ Ahora accedemos al siguiente archivo de configuración y nos aseguramos de que l
 Por último, definimos el directorio que creamos anteriormente como el directorio predeterminado de FTP
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7b89964d-95be-40c9-b920-323955d4431d)
+
+Ahora vamos a crear un script para crear usuarios, su contraseña y el directorio de alojamiento web.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7d564039-e79c-40c3-972c-1803b8d01e52)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2e9cbd89-fd47-45d6-a139-58a173380c40)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/be5cb2ab-e5d9-4f49-9b99-9a0696bec6ad)
