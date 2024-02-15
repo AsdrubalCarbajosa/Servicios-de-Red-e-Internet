@@ -44,4 +44,6 @@ Ahora accedemos al siguiente archivo de configuración y nos aseguramos de que l
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/aed84c3e-a521-4e6c-a366-2471b7c371cb)
 
+Por último, definimos el directorio que creamos anteriormente como el directorio predeterminado de FTP
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7b89964d-95be-40c9-b920-323955d4431d)
