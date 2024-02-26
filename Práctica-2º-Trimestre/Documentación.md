@@ -22,6 +22,24 @@ Ahora reiniciamos el servidor y accedemos a phpmyadmin mediante el navegador web
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/126c09ff-ce4e-4ff9-91c1-e24e028d0e2a)
 
+## Creación y configuración de DNS ##
+
+Descargamos bind9:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/dc175f51-5f8d-4ddd-ab7d-0e540ce73c47)
+
+Una vez descargado, nos vamos a "/etc/bind" y creamos un nuevo fichero con la configuración para la zona.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/0ac1f538-939d-445d-a2d4-6123d0e17b41)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/f5f17966-66e8-4270-a3cb-2f73de9dd498)
+
+Ahora nos vamos al fichero "named.conf.local" y añadimos lo siguiente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/b4cbe48b-ca9b-4746-896c-5c1f8c5ede6d)
+
+Ahora reiniciamos bind9 y comprobamos que funcione correctamente.
+
 ## Configuración de FTP ##
 
 Descargamos vftpd
