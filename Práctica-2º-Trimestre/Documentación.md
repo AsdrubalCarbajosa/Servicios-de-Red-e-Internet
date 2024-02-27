@@ -40,7 +40,7 @@ Ahora nos vamos al fichero "named.conf.local" y añadimos lo siguiente:
 
 Ahora reiniciamos bind9 y comprobamos que funcione correctamente.
 
-## Configuración de FTP ##
+## Configuración de FTP con TLS ##
 
 Descargamos vftpd
 
@@ -66,6 +66,20 @@ Por último, definimos el directorio que creamos anteriormente como el directori
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7b89964d-95be-40c9-b920-323955d4431d)
 
+A continuación vamos a configurar TLS para asegurar la conexión FTP. Ponemos el siguiente comando:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8c28564b-b61f-49e9-8996-b00a15d7deba)
+
+Cuando lo ejecutemos nos pedirá información que será incorporada a nuestro certificado TLS.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ef3296ec-63cf-4b01-a851-d44e35ab65f6)
+
+Lo siguiente será configurar FTP para que use el certificado. Nos vamos al archivo de configuración de FTP y ponemos lo siguiente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/378c33f0-5827-413d-8c75-d884f013cbcf)
+
+Ahora guardamos los cambios.
+
 Ahora vamos a crear un script para crear usuarios, su contraseña y el directorio de alojamiento web.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7d564039-e79c-40c3-972c-1803b8d01e52)
@@ -73,3 +87,4 @@ Ahora vamos a crear un script para crear usuarios, su contraseña y el directori
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2e9cbd89-fd47-45d6-a139-58a173380c40)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/be5cb2ab-e5d9-4f49-9b99-9a0696bec6ad)
+
