@@ -1,7 +1,7 @@
 # Práctica 2º Trimestre #
 ## Instalación de programas ##
 
-Lo primero es la instalación de apache, mysql, php y phpmyadmin
+Lo primero es la instalación de apache, mysql, php, python y phpmyadmin
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/45b94736-4a81-4f21-a1bc-4d901efc05af)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8eed3a03-e0f7-4164-9d23-da197f4c6c1e)
@@ -9,6 +9,8 @@ Lo primero es la instalación de apache, mysql, php y phpmyadmin
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/181e3b0f-4a49-482a-b538-c5665284370f)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8d66ab97-ba54-41f5-b69a-38b4a7995c83)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/e56cbb60-907c-45e2-9341-ecb8b288060b)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a31fe445-a2c4-438b-a44a-2c737c1f9fd5)
 
@@ -117,3 +119,37 @@ Ahora vamos a crear el subdominio para poder alojar la página web en nuestra ca
 Por último, creamos el VirtualHost en Apache mediante estos comandos. Incluiremos el nombre de la página web, el del administrador, la ruta del documento, y los permisos aplicados sobre el documento. Además, incluimos los certificados TLS para que el usuario cliente se pueda conectar de forma segura a través de FTP. Tras esto, activamos el sitio con "a2ensite" y reiniciamos los servicios.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/bd62a5b2-ed45-45ff-8583-260f54f4dd87)
+
+Vamos a comprobar que funciona correctamente ejecutano el script:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/d746c3b6-c504-4612-8aec-25b48dd2d9bd)
+
+Comprobamos que tanto en la carpeta de configuración de apache como en la de bind se ha añadido todo correctamente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/d69f649b-f606-4f64-8cfc-2bd149031c8e)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/b3561a4b-c5ca-4aa8-a210-0a3a1bd1912c)
+
+Lo siguiente será la creación del script para la base de datos.
+
+Primero solicitamos las credenciales de root para poder crear y modificar la base e datos e MySQL.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/58da484e-f699-4550-bae9-ac282588fbe4)
+
+Ahora solicitamos el nombre de la nueva base de datos, el nombre del nuevo usuario, y su contraseña. Para las contraseñas usamos el comando -s para que los caracteres que introduzcamos no aparezcan en la pantalla del terminal, lo cual hace que el proceso sea mucho más seguro.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/af903f44-78a9-4512-9a8e-52e93a7e1f91)
+
+Para finalizar procedemos a la creación de la base de datos con las credenciales que efinimos anteriormente.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/d6f1eb3c-e86e-4196-a7f0-afdfc0f66adf)
+
+Ahora vamos a comprobar que funciona correctamente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/87beea8f-5fa7-48ce-a198-5f4cd45cb9dd)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/b911bee0-5a98-48a3-978d-3a2080de8a4e)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8467a7cd-9b2f-41c7-af46-c8c0fb501c8c)
+
+Para finalizar los scripts, vamos a autorizar el uso  de aplicaciones python en las páginas web.
