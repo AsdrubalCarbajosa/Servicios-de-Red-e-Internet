@@ -80,6 +80,8 @@ Lo siguiente será configurar FTP para que use el certificado. Nos vamos al arch
 
 Ahora guardamos los cambios.
 
+## Creación de Scripts ##
+
 Ahora vamos a crear un script para crear usuarios, su contraseña y el directorio de alojamiento web.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7d564039-e79c-40c3-972c-1803b8d01e52)
