@@ -2,6 +2,7 @@
 ## Instalación de programas ##
 
 Lo primero es la instalación de apache, mysql, php, python y phpmyadmin
+
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/45b94736-4a81-4f21-a1bc-4d901efc05af)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8eed3a03-e0f7-4164-9d23-da197f4c6c1e)
@@ -120,12 +121,21 @@ Con esto tendríamos configurado tanto SSH como SFTP.
 
 ## Configuración de Postfix, Dovecot Imap y Pop3 ##
 
+Instalamos Dovecot con el siguiente comando:
+
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/68225048-aa56-4d68-8add-1b75b51c7ffd)
+
+Durante la instalación nos aparecerá esta ventana. Seleccionamos la opción de internet.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/17555010-3f2d-4509-a41b-7c00ecaf4564)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2b945763-f1aa-4f46-ab2e-f145fccfa2e4)
 
+Ahora nos vamos a nuestro fichero de configuración del dominio en bind y agregamos las sigueintes líneas: 
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/69e421b8-bb24-4c83-a01d-b48946917c26)
+
+Ahor reiniciamos bind9 y ya tendríamos creado nuestro servidor de correo.
 
 ## Creación de Scripts ##
 
