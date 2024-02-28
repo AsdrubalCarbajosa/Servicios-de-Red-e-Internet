@@ -98,6 +98,30 @@ Aquí escribimos el nombre de nuestro dominio junto con el type "master" y la ru
 
 Una vez hecho esto, ya tendremos creado nuestro dominio.
 
+## Instalación y configuración de SSH y SFTP ##
+
+Lo primero será instalar SSH.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a7161e23-86d3-450e-b375-a855a76f28a4)
+
+En el caso de que estemos usando un cortafuegos, deberemos permitir a SSH el acceso.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/608cb3e9-7aec-4a0d-b7f1-d66e74644386)
+
+Ahora si nos conectamos desde el cliente por ssh al servidor nos permitirá el acceso:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/107682bb-4f4c-441d-a501-7c6581a8f750)
+
+Si queremos conectarnos por sftp, solo deberemos escribir lo siguiente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4c8d02b1-306c-4288-b2ae-d7dff30d960a)
+
+Con esto tendríamos configurado tanto SSH como SFTP.
+
+## Configuración de Postfix, Dovecot Imap y Pop3 ##
+
+
+
 ## Creación de Scripts ##
 
 Ahora vamos a crear un script para crear usuarios, su contraseña, el directorio de alojamiento web, el subdominio y el VirtualHost en Apache.
@@ -163,5 +187,5 @@ Ahora nos vamos al script que creamos anteriormente para la creación de los Vir
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/cc4ecccc-7fe6-41ce-aa6f-ccb522240e76)
 
-Con esto, cunado creemos un nuevo usuario se permitirá el uso de aplicaciones python.
+Con esto, cuando creemos un nuevo usuario se permitirá el uso de aplicaciones python.
 
