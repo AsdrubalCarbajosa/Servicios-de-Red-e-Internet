@@ -120,6 +120,11 @@ Con esto tendríamos configurado tanto SSH como SFTP.
 
 ## Configuración de Postfix, Dovecot Imap y Pop3 ##
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/68225048-aa56-4d68-8add-1b75b51c7ffd)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/17555010-3f2d-4509-a41b-7c00ecaf4564)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2b945763-f1aa-4f46-ab2e-f145fccfa2e4)
 
 
 ## Creación de Scripts ##
