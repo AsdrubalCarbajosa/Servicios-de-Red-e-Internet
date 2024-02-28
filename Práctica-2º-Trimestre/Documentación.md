@@ -90,5 +90,14 @@ Lo primero será definir las variables.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/9106e7d3-0c00-4b1d-9330-5e7547454381)
 
-![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/be5cb2ab-e5d9-4f49-9b99-9a0696bec6ad)
+A continuación procedemos a la creación del usuario y su correspondiente directorio para el alojamiento web. Además, vamos a copiar dentro del directorio su correspondiente plantilla HTML.
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/9947df72-4a7f-4592-9533-515c8445e198)
+
+Ahora vamos a crear el subdominio para poder alojar la página web en nuestra carpeta de Bind9 que definimos anteriormente en las variables.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/fa4cb6b7-0dc8-4e9a-8b45-1341c38a761b)
+
+Por último, creamos el VirtualHost en Apache mediante estos comandos. Además, incluimos los certificados TLS para que el usuario cliente se pueda conectar de forma segura a través de FTP. Tras esto, activamos el sitio con "a2ensite" y reiniciamos los servicios.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/bd62a5b2-ed45-45ff-8583-260f54f4dd87)
