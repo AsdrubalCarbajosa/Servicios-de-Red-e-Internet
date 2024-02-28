@@ -129,9 +129,11 @@ Durante la instalación nos aparecerá esta ventana. Seleccionamos la opción de
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/17555010-3f2d-4509-a41b-7c00ecaf4564)
 
+Ahora elegimos cómo llamaremos a nuestro servidor de correo.
+
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2b945763-f1aa-4f46-ab2e-f145fccfa2e4)
 
-Ahora nos vamos a nuestro fichero de configuración del dominio en bind y agregamos las sigueintes líneas: 
+Ahora nos vamos a nuestro fichero de configuración del dominio en bind y agregamos las siguientes líneas: 
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/69e421b8-bb24-4c83-a01d-b48946917c26)
 
