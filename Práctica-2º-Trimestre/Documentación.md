@@ -153,3 +153,15 @@ Ahora vamos a comprobar que funciona correctamente:
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8467a7cd-9b2f-41c7-af46-c8c0fb501c8c)
 
 Para finalizar los scripts, vamos a autorizar el uso  de aplicaciones python en las páginas web.
+Antes que nada, vamos a crear un programa en python de ejemplo.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2b43071c-7e0f-4da4-acc7-feeb00a3f258)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/55520344-cc58-417d-9cda-6c4c770bf987)
+
+Ahora nos vamos al script que creamos anteriormente para la creación de los VirtualHost y añadimos lo siguiente:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/cc4ecccc-7fe6-41ce-aa6f-ccb522240e76)
+
+Con esto, cunado creemos un nuevo usuario se permitirá el uso de aplicaciones python.
+
