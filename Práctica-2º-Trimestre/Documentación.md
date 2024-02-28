@@ -82,11 +82,13 @@ Ahora guardamos los cambios.
 
 ## Creación de Scripts ##
 
-Ahora vamos a crear un script para crear usuarios, su contraseña y el directorio de alojamiento web.
+Ahora vamos a crear un script para crear usuarios, su contraseña, el directorio de alojamiento web, el subdominio y el VirtualHost en Apache.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7d564039-e79c-40c3-972c-1803b8d01e52)
 
-![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2e9cbd89-fd47-45d6-a139-58a173380c40)
+Lo primero será definir las variables.
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/9106e7d3-0c00-4b1d-9330-5e7547454381)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/be5cb2ab-e5d9-4f49-9b99-9a0696bec6ad)
 
