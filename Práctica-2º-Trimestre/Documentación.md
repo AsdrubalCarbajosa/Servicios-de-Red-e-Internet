@@ -80,6 +80,22 @@ Lo siguiente será configurar FTP para que use el certificado. Nos vamos al arch
 
 Ahora guardamos los cambios.
 
+## Creación del dominio ##
+
+Vamos a crear el dominio para que los usuarios puedan crear sus subdominios. Nos vamos a la carpeta /etc/bind y creamos un nuevo archivo. En este caso se llamará "domasd.local", que es el nombre que usaremos para el dominio en este caso.
+
+En el fichero vamos a poner el nombre del dominio, el usuario root y el servidor DNS en el siguiente formato:
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/5d898d97-c032-463d-9b18-789af053533f)
+
+Guardamos el archivo y nos vamos al archivo de la misma carpeta llamado "named.conf.local"
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/0f2449cf-2408-4d29-afe0-f7bb393c9d79)
+
+Aquí escribimos el nombre de nuestro dominio junto con el type "master" y la ruta a nuestro fichero de configuración.
+
+Una vez hecho esto, ya tendremos creado nuestro dominio.
+
 ## Creación de Scripts ##
 
 Ahora vamos a crear un script para crear usuarios, su contraseña, el directorio de alojamiento web, el subdominio y el VirtualHost en Apache.
@@ -98,6 +114,6 @@ Ahora vamos a crear el subdominio para poder alojar la página web en nuestra ca
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/fa4cb6b7-0dc8-4e9a-8b45-1341c38a761b)
 
-Por último, creamos el VirtualHost en Apache mediante estos comandos. Además, incluimos los certificados TLS para que el usuario cliente se pueda conectar de forma segura a través de FTP. Tras esto, activamos el sitio con "a2ensite" y reiniciamos los servicios.
+Por último, creamos el VirtualHost en Apache mediante estos comandos. Incluiremos el nombre de la página web, el del administrador, la ruta del documento, y los permisos aplicados sobre el documento. Además, incluimos los certificados TLS para que el usuario cliente se pueda conectar de forma segura a través de FTP. Tras esto, activamos el sitio con "a2ensite" y reiniciamos los servicios.
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/bd62a5b2-ed45-45ff-8583-260f54f4dd87)
