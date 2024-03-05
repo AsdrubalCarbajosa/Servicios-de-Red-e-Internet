@@ -37,4 +37,5 @@ Ahora lo instalamos con los siguientes comandos:
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a5f7ef32-120b-4962-90bb-c94d8679f95e)
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/3af319cf-3eae-46e3-b10f-8f338c87fc29)
 
