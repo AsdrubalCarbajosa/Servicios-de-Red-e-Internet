@@ -18,7 +18,6 @@ Ahora lo instalamos con los siguientes comandos:
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2582e0c7-b098-41df-a4ee-121f9811aa29)
 
-
-
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/caa115e0-893b-467d-9193-c097ea1a576d)
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/17497077-95e7-4917-9111-e6c7357e6db6)
