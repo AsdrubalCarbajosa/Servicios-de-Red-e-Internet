@@ -39,3 +39,16 @@ Ahora lo instalamos con los siguientes comandos:
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/3af319cf-3eae-46e3-b10f-8f338c87fc29)
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4beb9738-f074-4adc-9805-a951a8567b3a)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/49d0e05c-0710-42da-b71c-fd6e1c5ed269)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/3547014f-5130-4f02-805f-b85a089eb1bb)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ac8e04c4-a2f2-434f-a4b1-b54583308ac0)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/43f2cc8e-eb6e-45dd-8621-80c3473ee0d5)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/53b00675-4f25-44ba-95fd-cbcacda20e0a)
+
+
