@@ -55,14 +55,20 @@ Ahora lo instalamos con los siguientes comandos:
 
 ### Parte 3 ###
 
+#### 1.Descarga la imagen de ubuntu
+
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7d787c1c-e436-447d-923b-8bf4c027082f)
 
+#### 2.Descarga la imagen de hello-world
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/68e0a29d-f854-43fa-8bae-66dda9af2300)
 
+#### 3.Descarga la imagen nginx
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/efd9cf24-cbc8-48e1-a27c-5fc10d94246f)
 
+#### 4.Muestra un listado de todas la imágenes
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/0cb5cd85-cd52-45db-86d3-77c7612bb73c)
 
+#### 5.Ejecuta un contenedor hello-world y dale nombre “myhello1”
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/76e2550f-07d2-4c83-b52e-ac9c38f1d415)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8644b296-50ed-4a61-9d4a-eaa83d31b7a7)
@@ -73,3 +79,8 @@ Ahora lo instalamos con los siguientes comandos:
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/93c798ab-8eb9-4272-b626-1231ecf0a6e9)
 
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/1e10876e-b9d2-445d-8f4b-9cedb0f314cf)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ac14b1dc-3f20-4fe1-bbd6-8eb108d08792)
+
+![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/43cd0eff-c656-476a-98d9-e2157c862c09)
