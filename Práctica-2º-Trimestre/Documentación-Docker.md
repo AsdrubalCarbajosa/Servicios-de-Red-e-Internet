@@ -40,12 +40,16 @@ Ahora lo instalamos con los siguientes comandos:
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a5f7ef32-120b-4962-90bb-c94d8679f95e)
 
+#### 2.Construye el contenedor
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/3af319cf-3eae-46e3-b10f-8f338c87fc29)
 
+#### 3.Ejecútalo
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4beb9738-f074-4adc-9805-a951a8567b3a)
 
+#### 4.Create una cuenta en hub.docker.com
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/53b00675-4f25-44ba-95fd-cbcacda20e0a)
 
+#### 5.Publícalo
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7751e45b-d026-4001-8ef5-ef0ea3efd46c)
 
 ## Práctica 3 ##
