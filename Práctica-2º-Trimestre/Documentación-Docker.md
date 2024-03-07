@@ -68,17 +68,22 @@ Ahora lo instalamos con los siguientes comandos:
 #### 4.Muestra un listado de todas la imágenes
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/0cb5cd85-cd52-45db-86d3-77c7612bb73c)
 
-#### 5.Ejecuta un contenedor hello-world y dale nombre “myhello1”
+#### 5.6.7.8.Ejecuta un contenedor hello-world y dale nombre “myhello1”, "myhello2", "myhello3" y muestra los contenedores que se estén ejecutando
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/76e2550f-07d2-4c83-b52e-ac9c38f1d415)
 
+#### 9.Para el contenedor "myhello1”
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8644b296-50ed-4a61-9d4a-eaa83d31b7a7)
 
+#### 10.Para el contenedor "myhello2”
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/dc4763d7-5e7d-4af0-83de-4751098bfbb0)
 
+#### 11.Borra el contenedor "myhello1”
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/2dd3ced7-b38a-491b-a2a4-1ac7c3c5594f)
 
+#### 12.Muestra los contenedores que se están ejecutando.
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/93c798ab-8eb9-4272-b626-1231ecf0a6e9)
 
+#### 13.Borra todos los contenedores
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/1e10876e-b9d2-445d-8f4b-9cedb0f314cf)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/ac14b1dc-3f20-4fe1-bbd6-8eb108d08792)
