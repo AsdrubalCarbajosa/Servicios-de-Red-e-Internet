@@ -37,15 +37,12 @@ Ahora lo instalamos con los siguientes comandos:
 ### Parte 2 ###
 
 #### 1.Edita el fichero Dockerfile
-![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a621347d-1d19-4c22-96c9-37a12b18f3d6)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a5f7ef32-120b-4962-90bb-c94d8679f95e)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/3af319cf-3eae-46e3-b10f-8f338c87fc29)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/4beb9738-f074-4adc-9805-a951a8567b3a)
-
-![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/49d0e05c-0710-42da-b71c-fd6e1c5ed269)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/53b00675-4f25-44ba-95fd-cbcacda20e0a)
 
