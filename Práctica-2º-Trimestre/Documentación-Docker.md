@@ -53,7 +53,7 @@ Ahora lo instalamos con los siguientes comandos:
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/7751e45b-d026-4001-8ef5-ef0ea3efd46c)
 
-### Parte 3 ###
+## Práctica 3 ##
 
 #### 1.Descarga la imagen de ubuntu
 
