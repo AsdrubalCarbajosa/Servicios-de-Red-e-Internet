@@ -25,14 +25,18 @@ Ahora lo instalamos con los siguientes comandos:
 ## Práctica 2 ##
 ### Parte 1 ###
 
+#### 1.Ejecuta la imagen "hello-world"
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/8a3503a9-b23a-4d65-a151-bbb4186a9f9b)
 
+#### 2.Muestra las imágenes Docker instaladas
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/cc9a5b4b-3206-4c3c-b194-8d1208eb6e4f)
 
+#### 3.Muestra los contenedores Docker
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/649cf3cf-3a7c-4fd1-b650-a547ab5f9532)
 
 ### Parte 2 ###
 
+#### 1.Edita el fichero Dockerfile
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a621347d-1d19-4c22-96c9-37a12b18f3d6)
 
 ![image](https://github.com/AsdrubalCarbajosa/Servicios-de-Red-e-Internet/assets/91255302/a5f7ef32-120b-4962-90bb-c94d8679f95e)
